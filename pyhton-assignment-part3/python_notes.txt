@@ -1,0 +1,7 @@
+Topic 1: Variables store data.
+Topic 2: Lists are ordered.
+Topic 3: Dictionaries store key-value pairs.
+Topic 4: Loops automate tasks.
+Topic 5: Exception handling prevents crashes.
+Topic 6: Functions are used to reuse code.
+Topic 7: API allows communication between systems.
